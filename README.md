@@ -1,0 +1,1 @@
+# Tech_Store_Consultas_Basicas
