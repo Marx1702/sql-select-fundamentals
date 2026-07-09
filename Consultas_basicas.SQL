@@ -8,8 +8,7 @@
 
 -- NOTA: Tiene sentido usar SELECT * en entornos de desarrollo o durante las 
 -- primeras fases del analisis exploratorio (EDA) para conocer rapidamente 
--- que datos y columnas contiene una tabla. Sin embargo, no debe usarse 
--- en codigo de produccion final.
+-- que datos y columnas contiene una tabla.
 
 SELECT * FROM sales;
 
